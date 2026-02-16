@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "UserId": 1,
+    "Message": "miyvarxar",
+    "Date": "2025-12-04T23:50:08.0172183+04:00",
+    "Status": "Unread"
+  },
+  {
+    "Id": 2,
+    "UserId": 4,
+    "Message": "nini magaria",
+    "Date": "2025-12-05T00:35:22.2566856+04:00",
+    "Status": "Unread"
+  },
+  {
+    "Id": 3,
+    "UserId": 4,
+    "Message": "Your booking #1 for Room 20 is confirmed from 2025-12-09 to 2025-12-18.",
+    "Date": "2025-12-05T00:42:52.3744519+04:00",
+    "Status": "Unread"
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\bin\Debug\net8.0\HotelSystem.exe
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\bin\Debug\net8.0\HotelSystem.deps.json
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\bin\Debug\net8.0\HotelSystem.runtimeconfig.json
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\bin\Debug\net8.0\HotelSystem.dll
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\bin\Debug\net8.0\HotelSystem.pdb
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.AssemblyInfo.cs
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.dll
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\refint\HotelSystem.dll
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.pdb
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.genruntimeconfig.cache
+C:\Users\Home\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\ref\HotelSystem.dll

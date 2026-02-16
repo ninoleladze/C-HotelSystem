@@ -1,0 +1,46 @@
+[
+  {
+    "Id": 1,
+    "Username": "????",
+    "Password": "????",
+    "Role": "Customer",
+    "Status": "Active",
+    "Balance": 0,
+    "FullName": "",
+    "Email": "",
+    "Phone": ""
+  },
+  {
+    "Id": 2,
+    "Username": "nini",
+    "Password": "nini",
+    "Role": "Customer",
+    "Status": "Active",
+    "Balance": 0,
+    "FullName": "nini",
+    "Email": "nini@gmail.com",
+    "Phone": "2133"
+  },
+  {
+    "Id": 3,
+    "Username": "niniko",
+    "Password": "niniko24",
+    "Role": "Customer",
+    "Status": "Blocked",
+    "Balance": 2000,
+    "FullName": "",
+    "Email": "",
+    "Phone": ""
+  },
+  {
+    "Id": 4,
+    "Username": "ninchi",
+    "Password": "nini24",
+    "Role": "Customer",
+    "Status": "Active",
+    "Balance": 1222,
+    "FullName": "nino leladze",
+    "Email": "nino@GMAIL.COM",
+    "Phone": "123456789"
+  }
+]
